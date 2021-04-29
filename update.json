@@ -1,0 +1,10 @@
+{ 
+	"homepage": "https://github.com/ItzSwirlz/obsidian-diamond-ores-mod",
+	"1.16.5": {
+		"1.0": "Initial release"
+	},
+	"promos": {
+		"1.16.5-latest": "1.0",
+		"1.16.5-recommended": "1.0"
+	}
+}
